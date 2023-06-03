@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/lilei/test/socketpoll/build/src",
+  "command": "/usr/bin/g++   -I/home/lilei/test/socketpoll/src/../include  -g   -o CMakeFiles/tcpsocket.dir/socketPool.cpp.o -c /home/lilei/test/socketpoll/src/socketPool.cpp",
+  "file": "/home/lilei/test/socketpoll/src/socketPool.cpp"
+},
+{
+  "directory": "/home/lilei/test/socketpoll/build/src",
+  "command": "/usr/bin/g++   -I/home/lilei/test/socketpoll/src/../include  -g   -o CMakeFiles/tcpsocket.dir/taskQueue.cpp.o -c /home/lilei/test/socketpoll/src/taskQueue.cpp",
+  "file": "/home/lilei/test/socketpoll/src/taskQueue.cpp"
+},
+{
+  "directory": "/home/lilei/test/socketpoll/build/src",
+  "command": "/usr/bin/g++   -I/home/lilei/test/socketpoll/src/../include  -g   -o CMakeFiles/tcpsocket.dir/tcpSocket.cpp.o -c /home/lilei/test/socketpoll/src/tcpSocket.cpp",
+  "file": "/home/lilei/test/socketpoll/src/tcpSocket.cpp"
+}
+]

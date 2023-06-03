@@ -1,0 +1,5 @@
+/home/lilei/test/socketpoll/build/CMakeFiles/rebuild_cache.dir
+/home/lilei/test/socketpoll/build/CMakeFiles/edit_cache.dir
+/home/lilei/test/socketpoll/build/src/CMakeFiles/rebuild_cache.dir
+/home/lilei/test/socketpoll/build/src/CMakeFiles/tcpsocket.dir
+/home/lilei/test/socketpoll/build/src/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/tcpsocket.dir/socketPool.cpp.o CMakeFiles/tcpsocket.dir/taskQueue.cpp.o CMakeFiles/tcpsocket.dir/tcpSocket.cpp.o  -o ../../bin/tcpsocket 
